@@ -1,4 +1,6 @@
-**ParkingPro** is a comprehensive, user-friendly parking management system designed to streamline vehicle parking operations in a multi-floor building. This C++ project efficiently manages vehicle entries, tracks parking durations, and generates detailed e-slips for customers. With a dedicated admin interface, ParkingPro allows easy updating, deletion, and searching of vehicle records, ensuring smooth and efficient management of parking lots.
+**ParkingPro** is a comprehensive, user-friendly parking management system designed to streamline vehicle parking operations in a multi-floor building. This C++ project leverages Object-Oriented Programming (OOP) principles to efficiently manage vehicle entries, track parking durations, and generate detailed e-slips for customers. With a dedicated admin interface, ParkingPro allows easy updating, deletion, and searching of vehicle records, ensuring smooth and efficient management of parking lots.
+
+
 
 **Features**
 
